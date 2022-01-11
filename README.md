@@ -1,1 +1,1 @@
-More info about this repository can be found here: [volzo.de/thing/geodesiclamp](https://volzo.de/thing/geodesiclamp)
+More info about this repository can be found here: [volzo.de/thing/geodesiclamp](https://volzo.de/thing/geodesiclight)
